@@ -10,4 +10,4 @@ This repository serves as the **table of contents** for all my AI projects.
 ---
 
 ## **   MACHINE LEARNING   **
-1. Sonar-Rock Prediction
+1. Sonar-Rock Prediction  (https://github.com/malikOgunsakin785/Sonar-Rock Prediction)
