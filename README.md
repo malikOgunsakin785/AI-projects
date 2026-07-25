@@ -12,3 +12,4 @@ This repository serves as the **table of contents** for all my AI projects.
 ## **   MACHINE LEARNING   **
 1. Sonar-Rock Prediction  (https://github.com/malikOgunsakin785/Sonar-Rock-Prediction)
 2. breast cancer Prediction (https://github.com/malikOgunsakin785/Breast-Cancer-Prediction)
+3. email_spam detection (https://github.com/malikOgunsakin785/email-spam-classification)
