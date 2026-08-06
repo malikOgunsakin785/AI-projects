@@ -19,5 +19,5 @@ This repository serves as the **table of contents** for all my AI projects.
 7. heart disease classification (https://github.com/malikOgunsakin785/heart-disease-classification)
 8. loan status eligibility (https://github.com/malikOgunsakin785/loan-status-prediction)
 9. car price prdiction (https://github.com/malikOgunsakin785/car-price-prediction)
-10. wine quality prediction  (https://github.com/malikOgunsakin785/wine-quality-prediction)
+10. wine quality prediction  (https://github.com/malikOgunsakin785/wine-quality)
 
