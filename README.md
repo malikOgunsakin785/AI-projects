@@ -21,3 +21,6 @@ This repository serves as the **table of contents** for all my AI projects.
 9. car price prdiction (https://github.com/malikOgunsakin785/car-price-prediction)
 10. wine quality prediction  (https://github.com/malikOgunsakin785/wine-quality)
 
+
+##  **  DEEP LEARNING  **
+1.  breast cancer prediction using ANN (https://github.com/malikOgunsakin785/breast-cancer-using-ANN)
